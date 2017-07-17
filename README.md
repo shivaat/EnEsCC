@@ -1,5 +1,5 @@
 ### EnEsCC data
-The English Spanish Comparable Corpora aggregated using the ACCURAT toolkit. 
+The English Spanish Comparable Corpora aggregated from News sources using the ACCURAT toolkit. 
 
 This data was used to extract translation equivalents for Verb-Noun collocations of English and Spanish.
 Feel free to use this corpus for other research purposes.
