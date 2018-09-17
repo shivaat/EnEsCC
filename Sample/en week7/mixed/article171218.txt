@@ -1,0 +1,20 @@
+Apple hit with hefty $322m bill in University of Wisconsin mobile chip patent case 
+Posted October 18, 2015 01:50:20 
+Map: United States 
+A US jury has declared that Apple owes $US234 million ($322 million) in damages for infringing on mobile chip technology patented by University of Wisconsin researchers. 
+The non-profit Wisconsin Alumni Research Foundation (WARF) argued in court that Apple chips used in some of its popular mobile devices incorporated technology patented in 1998 for improving efficiency and performance of microprocessors. 
+"This is a case where the hard work of our university researchers and the integrity of patenting and licensing discoveries has prevailed," said WARF managing director Carl Gulbrandsen. 
+"The jury recognised the seminal computer processing work that took place on our campus." 
+Apple declined to comment on the jury award but said it planned to appeal the outcome to a higher court. 
+The California-based technology titan maintained throughout the civil trial that the patent at issue was not valid and the company did not infringe on it. 
+"Although patent verdicts like this one are typically appealed, we hope to continue to work with Apple to resolve this matter and build a stronger relationship between our two institutions," Mr Gulbrandsen said. 
+The inventors were identified as Andreas Moshovos, Scott Breach, Terani Vijaykumar, and Gurindar Sohi, who did research work at the university. 
+"We believed our technology was ahead of its time," Mr Sohi said in a statement. 
+"Almost two decades ago we tried to anticipate how computers would need to operate today. Our team invested the equivalent of more than 11 years of work to solve this problem." 
+At issue in the case were A7, A8 and A8X chip designs used in some newer model iPhones as well as in several versions of the iPad, according to WARF. 
+The jury sided with the university research association on all nine claims in the case and said it disagreed with Apple's contention that the patent was invalid. 
+WARF manages patents for the university with a mission to support research there, according to court documents. 
+A damages phase of the trial ended with the panel putting a figure on how much Apple should pay. WARF filed the suit against Apple last year in a federal court in Wisconsin. 
+"The jury did an incredible job grappling with the complex technology, and we're grateful for their effort," WARF general counsel Michael Falk said in a statement. 
+WARF is reported to be taking aim at newer Apple mobile chips using the same patent. 
+AFP 

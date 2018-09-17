@@ -1,0 +1,24 @@
+Sky News - 23 minutes ago 
+No plans to ban online encryption, Lords told 
+Press Association –  1 hour 5 minutes ago 
+Press Association - The Government has no plans to weaken online encryption, the Lords have been told 
+The Government has no plans to weaken or ban online encryption amid mounting concern over cyber attacks. 
+Culture, media and sport minister Baroness Shields gave the assurance to peers at question time after the cyber attack on TalkTalk customers. 
+It came as Labour 's Lord Winston warned of possible cyber attack on the nation's power supplies through the National Grid. 
+Lord Winston said the science and technology select committee had recently heard evidence about the National Grid. 
+Since privatisation the Grid was "now split up into lots of different agencies," he said. "There is a serious problem not only with nuclear power stations but the potential of cyber attack on our power supplies in Britain." 
+Lord Winston, the fertility expert, warned this would be "disastrous" and asked what the Government was doing to protect against it happening. 
+Lady Shields said the issue was beyond her "area of expertise" but promised to find out the answer and come back to him later. 
+Liberal Democrat Lord Strasburger stressed the need for strong encryption for "the integrity of every day online activities" like banking, retailing, financial trading and the conduct of government business. 
+"Strangely Mr Cameron doesn't seem to get it yet having three times said he intends to ban 'any communication we cannot read', which can only mean weakening encryption," he said. 
+Lady Shields replied: "The Prime Minister did not advocate banning encryption. He expressed concern that many companies are building end to end encrypted application services and not retaining the keys. 
+"The Prime Minister has repeatedly said there cannot be a safe place for terrorists, paedophiles and criminals to operate freely with impunity beyond the reach of law. 
+"This is not about creating back doors. This is about companies being able to access communications on their network when presented with a warrant." 
+Liberal Democrat Lord Clement-Jones asked if she could confirm there was no intention in forthcoming legislation to "either weaken encryption or provide back doors to it". 
+Lady Shields said: "I can confirm there is no intention to do that." 
+Labour former security minister Lord West of Spithead, pointing to the use of the internet by Islamic State and other terrorists, said: "It's absolutely essential that we have law enforcement capability, legally controlled, to be able to get access, so no enemies of the state who wish to destroy us are able to operate in an environment where they know they will never be monitored by law enforcement." 
+Lady Shields acknowledged there was an "alarming movement" towards encryption in such cases and warned it was essential for companies to retain the ability to decrypt the information and provide it to law enforcement "in extremis". 
+Labour former cabinet minister Lord Reid of Cardowan asked how confident the Government was over security for national infrastructure, including future nuclear power stations, following the attack on TalkTalk. 
+Lady Shields said events of the last week demonstrated the importance of "robust cyber security plans and encryption to protect our citizens and national infrastructure". 
+The Government had worked to ensure companies had the "tools they need" to protect against cyber attack. 
+Basic controls for all organisations, including the National Grid, had been set out, which "they must have in place to protect against cyber attack". 
