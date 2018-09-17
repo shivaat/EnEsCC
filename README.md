@@ -7,6 +7,16 @@ Feel free to use this corpus for other research purposes.
 ### Download 
 * [English-Spanish Comparable Corpora](https://www.dropbox.com/s/ux73pwt1r97iaq2/Comparable%20Corpora.zip?dl=0) (613.0 MB) 
 
+### Description
+The articles are categorized into the folders according to the week number in which they are retrieved.
+
+The file paired.txt includes the information about (and path to) the documents that are paired.
+
+Each line represents the path to the Spanish document, the path to the paired English document, and the cross-lingual similarity between the two documents, respectively and tab separated.
+
+All folders are zipped. 
+
+
 ### Citation
 For citations, please refer to the following article:
 
