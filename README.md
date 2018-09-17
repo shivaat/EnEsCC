@@ -5,6 +5,7 @@ This data was used to extract translation equivalents for Verb-Noun collocations
 Feel free to use this corpus for other research purposes.
 
 ### Download 
+A Sample of data gathered for one week (week #7) has been uploaded in this repository. However, the full data is available from the link below:
 * [English-Spanish Comparable Corpora](https://www.dropbox.com/s/ux73pwt1r97iaq2/Comparable%20Corpora.zip?dl=0) (613.0 MB) 
 
 ### Description
